@@ -1,0 +1,14 @@
+fastapi[standard]==0.115.0
+numpy==2.1.1
+pandas==2.2.3
+scikit-learn==1.5.2
+nltk==3.9.1
+scipy==1.14.1
+pyarrow==17.0.0
+pytesseract==0.3.13
+pillow==10.4.0
+Python-IO==0.3
+requests==2.32.3
+ipykernel==6.29.5
+openai==1.51.0
+dateparser==1.2.0
