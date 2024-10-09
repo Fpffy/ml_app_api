@@ -13,7 +13,7 @@ Before running the application, ensure you have the following installed:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/username/repo.git
+   git clone https://github.com/Fpffy/ml_app_api
    ```
 
 2. **Navigate to the project directory:**
